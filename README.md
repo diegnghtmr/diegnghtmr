@@ -62,8 +62,8 @@ I am a Systems and Computing Engineering student passionate about software devel
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=repo-name&theme=tokyonight)](https://github.com/diegnghtmr/repo-name)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=repo-name&theme=tokyonight)](https://github.com/diegnghtmr/repo-name)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=integrales-dobles&theme=tokyonight)](https://github.com/diegnghtmr/repo-name)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/repo-name)
 
 </div>
 
