@@ -1,21 +1,20 @@
 # Diego Alejandro Flores Quintero
 
-## 👨‍💻 Full Stack Developer | Java & Python Specialist
+## 👨‍💻 Systems and Computing Engineering Student | Virtual Assistant | Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-flores-quintero)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegnghtmr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
 ### 🚀 About Me
 
-Passionate Full Stack Developer with expertise in Java and Python. I specialize in building robust and scalable applications using frameworks like Spring Boot and Django. My strong foundation in SOLID principles and SQL ensures clean, efficient code and optimized database interactions.
+I am a Systems and Computing Engineering student passionate about software development and technological project management. I have experience as a Virtual Assistant, where I honed my skills in task coordination, digital content creation, and academic event organization. My goal is to apply my technical and soft skills in collaborative environments to deliver impactful solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [New Technology or Skill]
-- 🎯 2023 Goals: [Your Professional Goals]
-- 🌍 B2 Certified English Speaker
+- 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
+- 🌱 I'm currently learning Elixir and exploring its applications in scalable systems.
+- 🎯 2024 Goals: Master advanced algorithms and contribute to open-source projects.
+- 🌍 Intermediate in both English and French.
 
 ---
 
@@ -26,12 +25,13 @@ Passionate Full Stack Developer with expertise in Java and Python. I specialize 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
@@ -53,8 +53,8 @@ Passionate Full Stack Developer with expertise in Java and Python. I specialize 
 
 ### 🏆 Certifications & Achievements
 
-- B2 English Certification
-- [Any other relevant certifications or awards]
+- **Intermediate French Certification** – Alianza Francesa de Armenia (December 2022)
+- **Intermediate English Certification** – English Academy ASI (December 2024)
 
 ---
 
@@ -77,6 +77,6 @@ Passionate Full Stack Developer with expertise in Java and Python. I specialize 
 
 <div align="center">
 
-📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+📫 How to reach me: [diegoflorez332@gmail.com](mailto:diegoflorez332@gmail.com)
 
 </div>
