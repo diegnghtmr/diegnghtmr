@@ -71,7 +71,7 @@ Passionate Full Stack Developer with expertise in Java and Python. I specialize 
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/diegnghtmr/diegnghtmr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/diegnghtmr/diegnghtmr/blob/output/github-snake-dark.svg)
 
 ---
 
