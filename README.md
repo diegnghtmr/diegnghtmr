@@ -1,6 +1,6 @@
 # Diego Alejandro Flores Quintero
 
-## 👨‍💻 Systems and Computing Engineering Student | Virtual Assistant | Software Developer
+## 👨‍💻 Systems and Computing Engineering Student | Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-flores-quintero-57261b269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegnghtmr)
@@ -53,8 +53,8 @@ I am a Systems and Computing Engineering student passionate about software devel
 
 ### 🏆 Certifications & Achievements
 
-- **Intermediate French Certification** – Alianza Francesa de Armenia (December 2022)
-- **Intermediate English Certification** – English Academy ASI (December 2024)
+- **Intermediate French Certification** – Alianza Francesa de Armenia
+- **Intermediate English Certification** – English Academy ASI
 
 ---
 
