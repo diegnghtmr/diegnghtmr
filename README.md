@@ -13,7 +13,7 @@ I am a Systems and Computing Engineering student passionate about software devel
 
 - 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
 - 🌱 I'm currently learning Elixir and exploring its applications in scalable systems.
-- 🎯 2024 Goals: Master advanced algorithms and contribute to open-source projects.
+- 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
 - 🌍 Intermediate in both English and French.
 
 ---
