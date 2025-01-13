@@ -77,6 +77,6 @@ I am a Systems and Computing Engineering student passionate about software devel
 
 <div align="center">
 
-📫 How to reach me: [diegoflorez332@gmail.com](mailto:diegoflorez332@gmail.com)
+📫 How to reach me: [floresquintero.da@gmail.com](mailto:floresquintero.da@gmail.com)
 
 </div>
