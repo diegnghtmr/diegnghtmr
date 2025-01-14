@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a Systems and Computing Engineering student passionate about software development and technological project management. I have experience as a Virtual Assistant, where I honed my skills in task coordination, digital content creation, and academic event organization. My goal is to apply my technical and soft skills in collaborative environments to deliver impactful solutions.
+Systems and Computer Engineering student with experience in software development and technology project management. Passionate about innovation and collaboration, I seek opportunities to apply my technical expertise and soft skills in dynamic environments. Proficient in agile methodologies and collaboration tools, I easily adapt to new technologies while prioritizing efficient, high-quality solutions.
 
 - 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
 - 🌱 I'm currently learning Elixir and exploring its applications in scalable systems.
