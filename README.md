@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Systems and Computer Engineering student with experience in software development and technology project management. Passionate about innovation and collaboration, I seek opportunities to apply my technical expertise and soft skills in dynamic environments. Proficient in agile methodologies and collaboration tools, I easily adapt to new technologies while prioritizing efficient, high-quality solutions.
+Systems and Computing Engineer with experience in software development and technology project management. Passionate about innovation and collaboration, I seek opportunities to apply my technical expertise and soft skills in dynamic environments. Proficient in agile methodologies and collaboration tools, I easily adapt to new technologies while prioritizing efficient, high-quality solutions.
 
 - 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
 - 🌱 I'm currently learning Elixir and exploring its applications in scalable systems.
