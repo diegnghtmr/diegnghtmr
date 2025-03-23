@@ -45,7 +45,7 @@ Systems and Computing Engineer with experience in software development and techn
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=diegnghtmr&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/diegnghtmr)
 
 </div>
 
