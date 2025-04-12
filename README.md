@@ -12,8 +12,8 @@
 Systems and Computing Engineer with experience in software development and technology project management. Passionate about innovation and collaboration, I seek opportunities to apply my technical expertise and soft skills in dynamic environments. Proficient in agile methodologies and collaboration tools, I easily adapt to new technologies while prioritizing efficient, high-quality solutions.
 
 - 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
-- 🌱 I'm currently learning Elixir and exploring its applications in scalable systems.
 - 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
+- 🏅 Competitive Programming Competitor.
 - 🌍 Intermediate in both English and French.
 
 ---
@@ -28,10 +28,11 @@ Systems and Computing Engineer with experience in software development and techn
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
