@@ -99,7 +99,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 </details>
 
 <details>
-<summary><b>🖥️ Operating Systems · Terminals · Shells</b></summary>
+<summary><b>🖥️ Operating Systems & Terminals</b></summary>
 <br>
 
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
