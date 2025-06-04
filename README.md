@@ -52,13 +52,6 @@ Systems and Computing Engineer with experience in software development and techn
 
 ---
 
-### 🏆 Certifications & Achievements
-
-- **Intermediate French Certification** – Alianza Francesa de Armenia
-- **Intermediate English Certification** – English Academy ASI
-
----
-
 ### 📚 Featured Projects
 
 <div align="center">
