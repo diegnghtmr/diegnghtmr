@@ -130,7 +130,6 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=the-knowledge-bay&theme=tokyonight)](https://github.com/diegnghtmr/the-knowledge-bay)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=diegnghtmr&repo=virtual-wallet&theme=tokyonight)](https://github.com/diegnghtmr/virtual-wallet)
 
 </div>
