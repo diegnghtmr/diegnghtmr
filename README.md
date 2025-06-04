@@ -86,13 +86,36 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <summary><b>💻 IDEs & Environments</b></summary>
 <br>
 
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-37A65B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1B1F23?style=for-the-badge)
 ![WinSurf](https://img.shields.io/badge/WinSurf-F9F3E9?style=for-the-badge)
 ![Trae](https://img.shields.io/badge/Trae-FF4A36?style=for-the-badge)
 ![CodeLLM](https://img.shields.io/badge/CodeLLM-8A2BE2?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>🖥️ Operating Systems · Terminals · Shells</b></summary>
+<br>
+
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-5A67D8?style=for-the-badge&logo=warp&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </details>
 
