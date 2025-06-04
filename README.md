@@ -14,7 +14,7 @@ Systems and Computing Engineer with experience in software development and techn
 - 🔭 I'm currently working on expanding my knowledge in microservices and advanced design patterns.
 - 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
 - 🏅 Competitive Programming Competitor.
-- 🌍 Intermediate in both English and French.
+- 🌍 Communicating ideas effectively in English, French, and Spanish.
 
 ---
 
