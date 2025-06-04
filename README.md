@@ -139,24 +139,22 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 ### 📫 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-alejandro-flores-quintero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/diegnghtmr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:floresquintero.da@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-flores-quintero/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:floresquintero.da@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegnghtmr)
-
-**📧 Email:** floresquintero.da@gmail.com  
-**🌐 Location:** Colombia  
-**💬 Languages:** English, Spanish, French
-
-</div>
-
----
+<p align="center">
+  📍 Based in Colombia &nbsp; | &nbsp; 💬 Speaks English, French, & Spanish
+</p>
 
 <div align="center">
-
-⭐️ From [diegnghtmr](https://github.com/diegnghtmr)
-
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
+  <hr>
+  <small>Inspired by the foundational work:</small><br>
+  <i>"Attention is all you need."</i>
+  <br>
+  — Vaswani et al. (2017)
+  <br><br>
+  <small>🖋️ A humble nod from <a href="https://github.com/diegnghtmr">diegnghtmr</a></small>
 </div>
