@@ -46,6 +46,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <summary><b>🛢️ Database & Cloud</b></summary>
 <br>
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,6 +54,18 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧠 AI & Automation</b></summary>
+<br>
+
+![MCP](https://img.shields.io/badge/MCP-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
+![Task-Specific Models](https://img.shields.io/badge/Task--Specific%20Models-9370DB?style=for-the-badge&logo=huggingface&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)
 
 </details>
 
