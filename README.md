@@ -9,7 +9,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 - 🔭 Currently diving deeper into microservices and advanced design patterns.  
 - 🎯 2025 Goals: Master advanced algorithms and contribute to open-source projects.
-- 🏆 Competitive-programming enthusiast (ICPC / Codeforces).  
+- 🏆 Competitive-programming enthusiast (ICPC / LeetCode / Codeforces).  
 - 🌍 Communicating ideas effectively in English, French, and Spanish.
 
 ---
