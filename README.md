@@ -27,6 +27,8 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </details>
 
@@ -58,26 +60,34 @@ A Systems and Computing Engineer with a passion for building innovative solution
 </details>
 
 <details>
-<summary><b>🧠 AI & Automation</b></summary>
+<summary><b>🧠 AI Engineering & Data Science</b></summary>
 <br>
 
 ![MCP](https://img.shields.io/badge/MCP-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
 ![Task-Specific Models](https://img.shields.io/badge/Task--Specific%20Models-9370DB?style=for-the-badge&logo=huggingface&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔧 DevOps & Tools</b></summary>
+<summary><b>🔧 Infrastructure & Workflow Automation</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6B46C1?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 </details>
 
@@ -92,6 +102,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 </details>
 
