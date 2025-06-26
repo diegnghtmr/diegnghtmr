@@ -124,6 +124,9 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![WinSurf](https://img.shields.io/badge/WinSurf-F9F3E9?style=for-the-badge)
 ![Trae](https://img.shields.io/badge/Trae-FF4A36?style=for-the-badge)
 ![CodeLLM](https://img.shields.io/badge/CodeLLM-8A2BE2?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-272C37?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex%20CLI-7F51F2?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
