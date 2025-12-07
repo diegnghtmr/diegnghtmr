@@ -70,6 +70,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
 ![Task-Specific Models](https://img.shields.io/badge/Task--Specific%20Models-9370DB?style=for-the-badge&logo=huggingface&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
