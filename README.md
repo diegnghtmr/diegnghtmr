@@ -67,10 +67,12 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <br>
 
 ![MCP](https://img.shields.io/badge/MCP-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
-![Task-Specific Models](https://img.shields.io/badge/Task--Specific%20Models-9370DB?style=for-the-badge&logo=huggingface&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Model Orchestration](https://img.shields.io/badge/Model_Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
