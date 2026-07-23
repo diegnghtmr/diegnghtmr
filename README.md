@@ -179,6 +179,11 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Ghostty-6E56CF?style=for-the-badge&logo=ghostty&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Herdr](https://img.shields.io/badge/Herdr-FF5F56?style=for-the-badge)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -186,6 +191,8 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-0B57A4?style=for-the-badge&logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-00A8A8?style=for-the-badge)
+![Omarchy](https://img.shields.io/badge/Omarchy-D65D0E?style=for-the-badge)
 
 </details>
 
