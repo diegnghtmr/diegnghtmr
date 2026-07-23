@@ -159,6 +159,23 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 ---
 
+### 🤝 Open Source Contributions
+
+<details>
+<summary><b>📦 Repositories I've Contributed To</b></summary>
+<br>
+
+<a href="https://github.com/basecamp/omarchy" target="_blank"><img src="https://img.shields.io/badge/basecamp%2Fomarchy-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="basecamp/omarchy"/></a>
+<a href="https://github.com/alyssaxuu/screenity" target="_blank"><img src="https://img.shields.io/badge/alyssaxuu%2Fscreenity-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alyssaxuu/screenity"/></a>
+<a href="https://github.com/Gentleman-Programming/gentle-ai" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2Fgentle--ai-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gentleman-Programming/gentle-ai"/></a>
+<a href="https://github.com/Gentleman-Programming/gentleman-guardian-angel" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2Fgentleman--guardian--angel-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gentleman-Programming/gentleman-guardian-angel"/></a>
+<a href="https://github.com/nesszer/Win-CodexBar" target="_blank"><img src="https://img.shields.io/badge/nesszer%2FWin--CodexBar-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="nesszer/Win-CodexBar"/></a>
+<a href="https://github.com/Gentleman-Programming/Gentleman-Skills" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2FGentleman--Skills-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Gentleman-Programming/Gentleman-Skills"/></a>
+
+</details>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
