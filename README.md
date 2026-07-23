@@ -29,8 +29,14 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 </details>
 
@@ -40,9 +46,11 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </details>
 
@@ -54,11 +62,28 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧪 Testing & Code Quality</b></summary>
+<br>
+
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white)
+![ArchUnit](https://img.shields.io/badge/ArchUnit-BB2233?style=for-the-badge)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-D9411E?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 </details>
 
@@ -86,12 +111,19 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6B46C1?style=for-the-badge&logo=make&logoColor=white)
@@ -124,12 +156,12 @@ A Systems and Computing Engineer with a passion for building innovative solution
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-37A65B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1B1F23?style=for-the-badge)
-![WinSurf](https://img.shields.io/badge/WinSurf-F9F3E9?style=for-the-badge)
 ![Trae](https://img.shields.io/badge/Trae-FF4A36?style=for-the-badge)
 ![Opencode](https://img.shields.io/badge/Opencode-000000?style=for-the-badge)
 ![CodeLLM](https://img.shields.io/badge/CodeLLM-8A2BE2?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-272C37?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-0F172A?style=for-the-badge)
+![Pi CLI](https://img.shields.io/badge/Pi%20CLI-10B981?style=for-the-badge)
 ![Codex CLI](https://img.shields.io/badge/Codex%20CLI-7F51F2?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-392F5A?style=for-the-badge)
@@ -190,12 +222,12 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <summary><b>📦 Repositories I've Contributed To</b></summary>
 <br>
 
-<a href="https://github.com/basecamp/omarchy" target="_blank"><img src="https://img.shields.io/badge/basecamp%2Fomarchy-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="basecamp/omarchy"/></a>
-<a href="https://github.com/alyssaxuu/screenity" target="_blank"><img src="https://img.shields.io/badge/alyssaxuu%2Fscreenity-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alyssaxuu/screenity"/></a>
-<a href="https://github.com/Gentleman-Programming/gentle-ai" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2Fgentle--ai-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gentleman-Programming/gentle-ai"/></a>
-<a href="https://github.com/Gentleman-Programming/gentleman-guardian-angel" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2Fgentleman--guardian--angel-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gentleman-Programming/gentleman-guardian-angel"/></a>
-<a href="https://github.com/nesszer/Win-CodexBar" target="_blank"><img src="https://img.shields.io/badge/nesszer%2FWin--CodexBar-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="nesszer/Win-CodexBar"/></a>
-<a href="https://github.com/Gentleman-Programming/Gentleman-Skills" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Programming%2FGentleman--Skills-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Gentleman-Programming/Gentleman-Skills"/></a>
+| Owner | Repositories |
+|---|---|
+| **basecamp** | <a href="https://github.com/basecamp/omarchy" target="_blank"><img src="https://img.shields.io/badge/omarchy-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="basecamp/omarchy"/></a> |
+| **alyssaxuu** | <a href="https://github.com/alyssaxuu/screenity" target="_blank"><img src="https://img.shields.io/badge/screenity-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alyssaxuu/screenity"/></a> |
+| **Gentleman-Programming** | <a href="https://github.com/Gentleman-Programming/gentle-ai" target="_blank"><img src="https://img.shields.io/badge/gentle--ai-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gentleman-Programming/gentle-ai"/></a> <a href="https://github.com/Gentleman-Programming/gentleman-guardian-angel" target="_blank"><img src="https://img.shields.io/badge/gentleman--guardian--angel-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gentleman-Programming/gentleman-guardian-angel"/></a> <a href="https://github.com/Gentleman-Programming/Gentleman-Skills" target="_blank"><img src="https://img.shields.io/badge/Gentleman--Skills-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Gentleman-Programming/Gentleman-Skills"/></a> |
+| **nesszer** | <a href="https://github.com/nesszer/Win-CodexBar" target="_blank"><img src="https://img.shields.io/badge/Win--CodexBar-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="nesszer/Win-CodexBar"/></a> |
 
 </details>
 
