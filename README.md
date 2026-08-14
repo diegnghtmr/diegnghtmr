@@ -91,9 +91,11 @@ A Systems and Computing Engineer with a passion for building innovative solution
 <summary><b>🧠 AI Engineering & Data Science</b></summary>
 <br>
 
-![MCP](https://img.shields.io/badge/MCP-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI API](https://img.shields.io/badge/AI%20API-111827?style=for-the-badge&logoColor=white)
+![MCP Servers, Clients & Transports](https://img.shields.io/badge/MCP%20Servers%2C%20Clients%20%26%20Transports-D97A53?style=for-the-badge&logo=anthropic&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-FF7000?style=for-the-badge&logo=openai&logoColor=white)
+![Tool Use](https://img.shields.io/badge/Tool%20Use-2563EB?style=for-the-badge&logoColor=white)
+![Harness Engineering](https://img.shields.io/badge/Harness%20Engineering-374151?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
 ![Model Orchestration](https://img.shields.io/badge/Model_Orchestration-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ML](https://img.shields.io/badge/ML-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
