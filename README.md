@@ -246,11 +246,7 @@ A Systems and Computing Engineer with a passion for building innovative solution
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api?username=diegnghtmr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600&count_private=true&include_all_commits=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=diegnghtmr&theme=tokyonight&hide_border=true)
-
-[![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=diegnghtmr&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/diegnghtmr)
 
 </div>
 
