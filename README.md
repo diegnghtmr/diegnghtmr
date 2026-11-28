@@ -8,7 +8,7 @@
 A Systems and Computing Engineer with a passion for building innovative solutions and managing technology projects. I thrive in dynamic, collaborative environments where I can leverage my technical expertise and problem-solving skills. With a strong foundation in agile methodologies and a knack for adapting to new technologies, I am dedicated to delivering high-quality, efficient software.
 
 - 🔭 Currently diving deeper into microservices and advanced design patterns.  
-- 🎯 2026 Goals: Master advanced algorithms and contribute to open-source projects.
+- 🎯 2027 Goals: Master advanced algorithms and contribute to open-source projects.
 - 🏆 Competitive-programming enthusiast (ICPC / LeetCode / Codeforces).  
 - 🌍 Communicating ideas effectively in English, French, and Spanish.
 
